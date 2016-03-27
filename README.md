@@ -12,7 +12,7 @@ This is just a demo application to use Nmap in Python using python-nmap package
 
 ## Usage
 ```python
-	python3 nmap_portscanner.py -h
+python3 nmap_portscanner.py -h
 ```
 
 To get the help menu
