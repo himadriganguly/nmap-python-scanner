@@ -12,12 +12,12 @@ This is just a demo application to use Nmap in Python using python-nmap package
 
 ## Usage
 ```bash
-python3 nmap_portscanner.py -h
+$ python3 nmap_portscanner.py -h
 ```
 
 To get the help menu
 ```bash
-python3 nmap_portscanner.py 127.0.0.1 -p 80,21,4444
+$ python3 nmap_portscanner.py 127.0.0.1 -p 80,21,4444
 ```
 It will check the ports 80,21,4444 of the host 127.0.0.1 and will display the result
 
